@@ -14,9 +14,8 @@ body {
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
-    /* background: linear-gradient(90deg, #f598a8, #f6edb2);
-     */
-     background: radial-gradient( #5462c3, #ba872c);
+  
+     background: #40b85a;
      background-repeat: round;
 
    
